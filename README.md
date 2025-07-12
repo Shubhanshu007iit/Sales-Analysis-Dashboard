@@ -28,3 +28,14 @@ KPI cards for high-level metrics
 Map for state-wise sales distribution
 Generated insights and compiled a PDF report
 
+ Dashboard Highlights
+Bar Charts: Sales by Segment, Sub-Category
+Donut Charts: Sales by Region, Sales by Year
+Map Visual: Sales by State
+KPI Cards: Sales, Profit, Quantity, Discount
+
+🏁 Final Conclusion
+This Power BI dashboard offers a complete view of the company’s sales performance from 2018 to 2021. It highlights strong areas like the Consumer segment, Phones category, and the West region, while also identifying growth opportunities in underperforming areas such as the Central region and specific product lines. By combining KPIs with clear visuals, this project helps drive better business decisions and shows the power of data in understanding real sales performance.
+
+**Dashboard**
+
